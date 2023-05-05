@@ -1,0 +1,5 @@
+input:
+s = "hello world"
+
+output:
+['l', 'o']
