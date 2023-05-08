@@ -1,0 +1,5 @@
+s=input("enter the values separated by comma:").split(",")
+s=list(map(int,s))
+print(s)
+s.sort()
+print("The sorted list is {}".format(s))
